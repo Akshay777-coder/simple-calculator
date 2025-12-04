@@ -5,8 +5,8 @@ int main() {
     int c;
     int d  = (int)a;
     int e = (int)b;
-    printf("            💖 The Kawaii Calculator  ✨          \n "); 
-    printf("Enter The First Number = ");
+    printf("\t\t***A_Simple_C_Calculator ✨***\n "); 
+    printf("Enter The First Number: ");
     scanf("%f", &a);
 
     printf("Enter The Second Number = ");
@@ -55,6 +55,6 @@ int main() {
         printf("Invalid Choice! Please choose 1-5.\n");
     }
 
-    printf("\nThanks For using SENSEI 🥵❣️\n");
+    printf("\n\tThanks for Using Our Calculator\n\t\tHave a Good Day");
     return 0;
 }
